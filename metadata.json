@@ -1,0 +1,5 @@
+{
+  "name": "JSON Architect & Schema Builder",
+  "description": "A professional JSON viewer, formatter, and Mongoose schema generator. Features tree view, dark mode, JS object conversion, and AI-powered schema refinement.",
+  "requestFramePermissions": []
+}
